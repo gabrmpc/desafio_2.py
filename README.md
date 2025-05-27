@@ -1,6 +1,6 @@
-# Desafio nº2 do Curso de Python - DIO/SUZANO
+# Desafios do Curso de Python - DIO/SUZANO
 
-Este projeto contém a solução para o Desafio nº2 proposto no Curso de Python oferecido pela DIO em parceria com a Suzano.
+Este projeto contém a solução para os desafios propostos no Curso de Python oferecido pela DIO em parceria com a Suzano.
 
 ## 🚀 Tecnologias
 
